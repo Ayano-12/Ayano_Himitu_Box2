@@ -1,5 +1,6 @@
 # AyanoHimituBox - FFXIV 小工具箱 -26.FEB.27 -CN7.4.1
 
+无需验证，仅限在线安装使用
 包含以下功能：
 
 ### 1. 🏃 移速修改 (Speed Hack)
