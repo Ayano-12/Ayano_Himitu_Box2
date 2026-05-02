@@ -1,4 +1,4 @@
-# AyanoHimituBox - FFXIV 小工具箱 -26.APR.30 -CN7.5.0
+# AyanoHimituBox - FFXIV 小工具箱 -26.May.2 -CN7.5.0
 
 无需验证，仅限在线安装使用
 包含以下功能：
@@ -15,4 +15,4 @@
 
 ### 6. 👿 防击退 (AntiKnock)
 
-### 7. ↕ 飞天遁地 (Up and Down)（暂不可用）
+### 7. ↕ 飞天遁地 (Up and Down)
