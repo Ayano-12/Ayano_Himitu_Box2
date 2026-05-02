@@ -9,7 +9,7 @@
 
 ### 3. 🚶 强制移动 (Force Move)
 
-### 4. 🚶 长臂猿 (ActionRange)
+### 4. 🚶 长臂猿 (ActionRange)// 突进无视距离
 
 ### 5. 🚩 传送 (Teleport)
 
