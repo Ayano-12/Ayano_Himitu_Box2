@@ -1,4 +1,4 @@
-# AyanoHimituBox - FFXIV 小工具箱 -26.Aug.9 -CN7.5.5
+# AyanoHimituBox - FFXIV 小工具箱 -26.Sep.9 -CN7.5.6
 
 无需验证，仅限在线安装使用
 包含以下功能：
@@ -11,8 +11,8 @@
 
 ### 4. 🚶 长臂猿 (ActionRange)// 突进无视距离
 
-### 5. 🚩 传送 (Teleport)
+### 5. 🚩 传送 (Teleport)（包括鼠标指针与野外传送）
 
 ### 6. 👿 防击退 (AntiKnock)
 
-### 7. ↕ 飞天遁地 (Fly Up and Down)
+### 7. ↕ 飞天遁地 (本内外均可)
