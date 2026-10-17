@@ -1,4 +1,4 @@
-# AyanoHimituBox - FFXIV 小工具箱 -26.Sep.17 -CN7.5.6
+# AyanoHimituBox - FFXIV 小工具箱 -26.Oct.17 -CN7.5.7
 
 无需验证，仅限在线安装使用
 包含以下功能：
@@ -16,3 +16,10 @@
 ### 6. 👿 防击退 (AntiKnock)
 
 ### 7. ↕ 飞天遁地 (本内外均可)
+
+### 8. ⚔️ 技能无位移（例如突进，龙骑跳等）
+
+### 9. 👿 摔落无伤害 (No Damage Fall)
+
+
+
