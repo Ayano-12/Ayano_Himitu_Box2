@@ -1,4 +1,4 @@
-# AyanoHimituBox - FFXIV 小工具箱 -26.Oct.17 -CN7.5.7
+# AyanoHimituBox - FFXIV 小工具箱 -26.Oct.18 -CN7.5.7
 
 无需验证，仅限在线安装使用
 包含以下功能：
