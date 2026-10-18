@@ -21,5 +21,12 @@
 
 ### 9. 👿 摔落无伤害 (No Damage Fall)
 
+### 10. ☁ 虚空市场板 (Remote Market)
+
+### 11. ☁ 虚空修理工 (Remote Repair Stuff)
+
+### 12. ☁ 虚空部队箱 (Remote FCBox)
+
+### 13. ☁ 虚空旅馆 (Remote Hotel)
 
 
